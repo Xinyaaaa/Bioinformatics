@@ -1,5 +1,5 @@
 networkx
 requests
-matplotlib
+matplotlib.pyplot
 pandas
 biopython
